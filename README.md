@@ -14,6 +14,10 @@ Aplicación de detección de productos en tiempo real. **Tecnologías**: Python,
 Sistema para gestionar inventarios con autenticación y CRUD. **Tecnologías**: Node.js, Express, MongoDB, Docker.
 - [Enlace al código](URL) | [Despliegue en vivo](URL)
 
+### Proyecto 3: Aplicacion web medica con conversion de videos AVI a mp4
+Aplicación de administracion de roles (medicos y pacientes) en la cual los medicos transforman video AVI a mp4 y los envian a los respectivos pacientes. **Tecnologías**: Next.js, Node.js, MongoDB atlas, AWS S3.
+- [Enlace al código](https://github.com/josemhc/Proyecto-Informatico.git) | [Despliegue en vivo PENDIENTE](URL)
+
 
 ## Información de Contacto
 
