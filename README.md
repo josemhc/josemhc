@@ -23,5 +23,5 @@ LinkedIn
 GetOnBrd
 - [https://www.getonbrd.com/p/jose-hernandez-edc2](URL)
 
-- Correo electrónico
-  [josemhernandezc0314@gmail.com](URL)
+Correo electrónico
+- [Email](josemhernandezc0314@gmail.com)
