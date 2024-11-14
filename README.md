@@ -19,7 +19,7 @@ Sistema para gestionar inventarios con autenticación y CRUD. **Tecnologías**: 
 
 - Correo electrónico: josemhernandezc0314@gmail.com
 
-- [LinkedIn](www.linkedin.com/in/jose-hernández-3a8ba5335)
+- [LinkedIn](https://www.linkedin.com/in/jose-hern%C3%A1ndez-3a8ba5335/)
   
 - [GetOnBrd](https://www.getonbrd.com/p/jose-hernandez-edc2)
   
