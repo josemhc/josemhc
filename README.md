@@ -6,7 +6,6 @@ Node.js, Express, Python flask, Springboot, MySQL, MongoDB, Docker, Linux, Vagra
 
 ## Proyectos destacados:
 
-``````
 ### Proyecto 1: Inventario con YOLO y Streamlit
 Aplicación de detección de productos en tiempo real. **Tecnologías**: Python, Streamlit, YOLO, Docker.
 - [Enlace al código](URL) | [Despliegue en vivo](URL)
@@ -15,7 +14,6 @@ Aplicación de detección de productos en tiempo real. **Tecnologías**: Python,
 Sistema para gestionar inventarios con autenticación y CRUD. **Tecnologías**: Node.js, Express, MongoDB, Docker.
 - [Enlace al código](URL) | [Despliegue en vivo](URL)
 
-``````
 
 ## Información de Contacto
 
