@@ -17,13 +17,12 @@ Sistema para gestionar inventarios con autenticación y CRUD. **Tecnologías**: 
 
 ## Información de Contacto
 
-``````
+
 LinkedIn
-- [Link de LinkedIn](URL)
+- [LinkedIn](URL)
 
 GetOnBrd
-- [https://www.getonbrd.com/p/jose-hernandez-edc2](URL)
+- [GetOnBrd](https://www.getonbrd.com/p/jose-hernandez-edc2)
 
 Correo electrónico
-- [Email](josemhernandezc0314@gmail.com)
-``````
+- [Correo electrónico](josemhernandezc0314@gmail.com)
