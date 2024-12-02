@@ -6,6 +6,8 @@ Node.js, Express, Python flask, MySQL, MongoDB, Docker, Linux, Vagrant, bento-ub
 
 ## Proyectos destacados:
 
+### NOTA: Los proyectos desplegados pueden tardar en cargar en la url proporcionada
+
 ### Proyecto 1: Gestion de usuarios con Python Flask y MySQL
 Aplicación con python flask y certificado SSL con apache2. **Tecnologías**: Python, MySQL, Apache2, Docker, AWS EC2.
 - [Enlace al código](https://github.com/josemhc/PythonWebApp) | [Despliegue en vivo PENDIENTE](URL)
