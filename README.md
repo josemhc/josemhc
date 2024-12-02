@@ -1,8 +1,8 @@
-# 👋 ¡Hola! Soy José Hernández, desarrollador especializado en aplicaciones web y despliegue de contenedores.
+# 👋 ¡Hola! Soy José Hernández, desarrollador Junior de aplicaciones web y despliegue de contenedores.
 
 ## Tecnologias y herramientas:
 
-Node.js, Express, Python flask, Springboot, MySQL, MongoDB, Docker, Linux, Vagrant,  bento-ubuntu, Apache2, Bind9, Nginx, AWS EC2, AWS S3
+Node.js, Express, Python flask, MySQL, MongoDB, Docker, Linux, Vagrant, bento-ubuntu, Apache2, Bind9, Nginx, AWS EC2, AWS S3
 
 ## Proyectos destacados:
 
