@@ -9,7 +9,7 @@ Node.js, Express, Python flask, MySQL, MongoDB, Docker, Linux, Vagrant, bento-ub
 ### NOTA: Los proyectos desplegados pueden tardar en cargar en la url proporcionada, todas las contenerizaciones y despliegues de los servicios fueron realizados por mi.
 
 ### Proyecto 1: Aplicacion web medica con conversion de videos AVI a mp4
-Aplicación de administracion de roles (medicos y pacientes) en la cual los medicos transforman video AVI a mp4 y los envian a los respectivos pacientes. **Tecnologías**: Next.js, Node.js, MongoDB atlas, AWS S3, Docker.
+Aplicación de administracion de roles (medicos y pacientes) en la cual los medicos transforman video AVI a mp4 y los envian a los respectivos pacientes. **Tecnologías**: Node.js, Next.js, Express.js, MongoDB atlas, AWS S3, Docker.
 #### CONTRIBUCIONES: En este proyecto trabaje junto a otros 4 desarrolladores, aporte en funcionalidades del backend como controladores del modelo de pacientes e implementacion de almacenamiento de archivos en Bucket de AWS S3.
 - [Enlace al código](https://github.com/josemhc/Proyecto-Informatico.git) | [Despliegue en vivo](https://ecomed-frontend-1-0.onrender.com)
 
