@@ -2,7 +2,7 @@
 
 ## Tecnologias y herramientas:
 
-Node.js, Express, Python flask, MySQL, MongoDB, Docker, Linux, Vagrant, bento-ubuntu, Apache2, Bind9, Nginx, AWS EC2, AWS S3
+Javascript, Python, express.js, python flask, Docker, VMs Linux bento-ubuntu, Apache2, Bind9, Nginx, AWS EC2, AWS S3, Kubernetes Azure
 
 ## Proyectos destacados:
 
