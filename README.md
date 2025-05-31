@@ -18,11 +18,6 @@ Aplicación con python flask y certificado SSL con apache2. **Tecnologías**: Py
 #### CONTRIBUCIONES: En este proyecto parti de un CRUD de usuarios ya creado tiempo atras, y añadi un CRUD completo de productos, junto con su respectivo template html, ademas agregue un par de claves de SSL y configure una instancia de AWS EC2 para desplegar el proyecto con https
 - [Enlace al código](https://github.com/josemhc/PythonWebApp.git)
 
-### Proyecto 3: Panel de Administración con Node.js y MongoDB
-Sistema para gestionar Tareas de usuarios con autenticación y CRUD. **Tecnologías**: Node.js, Express, MongoDB, Docker.
-#### CONTRIBUCIONES: Este proyecto fue realizado completamente por mi, desde la creacion del Frontend, Backend, Database, hasta la contenerizacion y despliegue.
-- [Enlace al código](https://github.com/josemhc/FULL-STACK-CRUD.git)
-
 ## Información de Contacto
 
 - Correo electrónico: josemhernandezc0314@gmail.com
