@@ -18,6 +18,12 @@ Aplicación con python flask y certificado SSL con apache2. **Tecnologías**: Py
 #### CONTRIBUCIONES: En este proyecto parti de un CRUD de usuarios ya creado tiempo atras, y añadi un CRUD completo de productos, junto con su respectivo template html, ademas agregue un par de claves de SSL y configure una instancia de AWS EC2 para desplegar el proyecto con https (Repositorio con certificado y clave autofirmados con fin de demostracion, evidentemente practica no recomendada en produccion)
 - [Enlace al código](https://github.com/josemhc/PythonWebApp.git)
 
+### Proyecto 3: Aplicacion web simple de microservicios contenerizados con Docker
+Aplicacion de microservicios con Python Flask de gestion de usuarios y productos, y una interfaz basica hecha con HTML.
+#### CONTRIBUCIONES: En este proyecto cree y gestione microservicios para luego contenerizarlos con docker y docker-compose.
+
+-[Enlace al código](https://github.com/josemhc/Python_Microservicios.git)
+
 ## Información de Contacto
 
 - Correo electrónico: josemhernandezc0314@gmail.com
