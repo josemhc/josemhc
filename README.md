@@ -1,8 +1,8 @@
-# 👋 ¡Hola! Soy José Hernández, desarrollador Junior de aplicaciones web y despliegue de contenedores.
+# 👋 ¡Hola! Soy José Hernández, desarrollador de aplicaciones web y despliegue de contenedores.
 
 ## Tecnologias y herramientas:
 
-Javascript, Python, express.js, python flask, Docker, VMs Linux bento-ubuntu, Apache2, Bind9, Nginx, AWS EC2, AWS S3, Kubernetes Azure
+Javascript, express.js, Docker, Linux bento-ubuntu, AWS EC2, S3, EKS, Azure AKS, Github Actions
 
 ## Proyectos destacados:
 
@@ -16,12 +16,12 @@ Aplicación de administracion de roles (medicos y pacientes) en la cual los medi
 ### Proyecto 2: Contenerizacion y despliegue SSL de API REST sencilla
 Aplicación con python flask y certificado SSL con apache2. **Tecnologías**: Python, MySQL, Apache2, Docker, AWS EC2.
 #### CONTRIBUCIONES: En este proyecto parti de un CRUD de usuarios ya creado tiempo atras, y añadi un CRUD completo de productos, junto con su respectivo template html, ademas agregue un par de claves de SSL y configure una instancia de AWS EC2 para desplegar el proyecto con https
-- [Enlace al código](https://github.com/josemhc/PythonWebApp.git) | [Despliegue en vivo](https://ec2-3-141-41-74.us-east-2.compute.amazonaws.com/products)
+- [Enlace al código](https://github.com/josemhc/PythonWebApp.git)
 
 ### Proyecto 3: Panel de Administración con Node.js y MongoDB
 Sistema para gestionar Tareas de usuarios con autenticación y CRUD. **Tecnologías**: Node.js, Express, MongoDB, Docker.
 #### CONTRIBUCIONES: Este proyecto fue realizado completamente por mi, desde la creacion del Frontend, Backend, Database, hasta la contenerizacion y despliegue.
-- [Enlace al código](https://github.com/josemhc/FULL-STACK-CRUD.git) | [Despliegue en vivo PENDIENTE](URL)
+- [Enlace al código](https://github.com/josemhc/FULL-STACK-CRUD.git)
 
 ## Información de Contacto
 
