@@ -15,7 +15,7 @@ Aplicación de administracion de roles (medicos y pacientes) en la cual los medi
 
 ### Proyecto 2: Contenerizacion y despliegue SSL de API REST sencilla
 Aplicación con python flask y certificado SSL con apache2. **Tecnologías**: Python, MySQL, Apache2, Docker, AWS EC2.
-#### CONTRIBUCIONES: En este proyecto parti de un CRUD de usuarios ya creado tiempo atras, y añadi un CRUD completo de productos, junto con su respectivo template html, ademas agregue un par de claves de SSL y configure una instancia de AWS EC2 para desplegar el proyecto con https
+#### CONTRIBUCIONES: En este proyecto parti de un CRUD de usuarios ya creado tiempo atras, y añadi un CRUD completo de productos, junto con su respectivo template html, ademas agregue un par de claves de SSL y configure una instancia de AWS EC2 para desplegar el proyecto con https (Repositorio con certificado y clave autofirmados con fin de demostracion, evidentemente practica no recomendada en produccion)
 - [Enlace al código](https://github.com/josemhc/PythonWebApp.git)
 
 ## Información de Contacto
