@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy José Hernández, desarrollador de aplicaciones web y despliegue de contenedores.
+# 👋 ¡Hola! Soy José Hernández, desarrollador backend de aplicaciones web y despliegue de contenedores.
 
 ## Tecnologias y herramientas:
 
