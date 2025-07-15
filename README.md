@@ -8,25 +8,20 @@ Javascript, express.js, Docker, Linux bento-ubuntu, AWS EC2, S3, EKS, Azure AKS,
 
 ### NOTA: Los proyectos desplegados pueden tardar en cargar en la url proporcionada, todas las contenerizaciones y despliegues de los servicios fueron realizados por mi.
 
-### Proyecto 1: Aplicacion web medica con conversion de videos AVI a mp4
+### Proyecto 1: Aplicacion web medica con conversión de videos AVI a mp4, sistema de autenticación y manejo de roles
 Aplicación de administracion de roles (medicos y pacientes) en la cual los medicos transforman video AVI a mp4 y los envian a los respectivos pacientes. **Tecnologías**: Node.js, Next.js, Express.js, MongoDB atlas, AWS S3, Docker.
 #### CONTRIBUCIONES: En este proyecto trabaje junto a otros 4 desarrolladores, aporte en funcionalidades del backend como controladores del modelo de pacientes e implementacion de almacenamiento de archivos en Bucket de AWS S3.
 - [Enlace al código](https://github.com/josemhc/Proyecto-Informatico.git) | [Despliegue en vivo](https://ecomed-frontend-1-0.onrender.com)
 
-### Proyecto 2: Contenerizacion y despliegue SSL de API REST sencilla
-Aplicación con python flask y certificado SSL con apache2. **Tecnologías**: Python, MySQL, Apache2, Docker, AWS EC2.
-#### CONTRIBUCIONES: En este proyecto parti de un CRUD de usuarios ya creado tiempo atras, y añadi un CRUD completo de productos, junto con su respectivo template html, ademas agregue un par de claves de SSL y configure una instancia de AWS EC2 para desplegar el proyecto con https (Repositorio con certificado y clave autofirmados con fin de demostracion, evidentemente practica no recomendada en produccion)
-- [Enlace al código](https://github.com/josemhc/PythonWebApp.git)
-
-### Proyecto 3: Aplicacion web simple de microservicios contenerizados con Docker
+### Proyecto 2: Aplicacion web simple de microservicios contenerizados con Docker
 Aplicacion de microservicios con Python Flask de gestion de usuarios y productos, y una interfaz basica hecha con HTML.
 #### CONTRIBUCIONES: En este proyecto cree y gestione microservicios para luego contenerizarlos con docker y docker-compose.
 
 -[Enlace al código](https://github.com/josemhc/Python_Microservicios.git)
 
-### Proyecto 4: API REST con SpringBoot y MySQL, frontend con React.js
-Aplicacion variando las tecnologias a Java con SpringBoot para el backend, y React.js para el frontend, desarrollada tanto en localhost, como en contenedores docker.
-#### CONTRIBUCIONES: En este proyecto cree y gestione fronten, backend y base de datos para luego contenerizarlos con docker y docker-compose.
+### Proyecto 3: Ejercicio de prueba tecnica, API REST con SpringBoot y MySQL, frontend con React.js
+Aplicacion usando Java con SpringBoot para el backend, y React.js para el frontend, desarrollada tanto en localhost, como en contenedores docker.
+#### CONTRIBUCIONES: En este proyecto cree y gestione frontend, backend y base de datos para luego contenerizarlos con docker y docker-compose.
 
 -[Enlace al código](https://github.com/josemhc/Springboot-React.git)
 
