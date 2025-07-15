@@ -24,6 +24,12 @@ Aplicacion de microservicios con Python Flask de gestion de usuarios y productos
 
 -[Enlace al código](https://github.com/josemhc/Python_Microservicios.git)
 
+### Proyecto 4: API REST con SpringBoot y MySQL, frontend con React.js
+Aplicacion variando las tecnologias a Java con SpringBoot para el backend, y React.js para el frontend, desarrollada tanto en localhost, como en contenedores docker.
+#### CONTRIBUCIONES: En este proyecto cree y gestione fronten, backend y base de datos para luego contenerizarlos con docker y docker-compose.
+
+-[Enlace al código](https://github.com/josemhc/Springboot-React.git)
+
 ## Información de Contacto
 
 - Correo electrónico: josemhernandezc0314@gmail.com
