@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy José Hernández, desarrollador backend junior de aplicaciones web y gestion de servicios en la nube.
+# 👋 ¡Hola! Soy Jose Hernández, desarrollador backend junior de aplicaciones web y gestion de servicios en la nube.
 
 ## Proyectos destacados:
 
